@@ -1,2 +1,2 @@
 # GitHub-Copilot-Lab
-Practice of GH 300 Course onb Microsoft Learn
+Practice of GH 300 Course on Microsoft Learn
